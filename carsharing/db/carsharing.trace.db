@@ -1,0 +1,3 @@
+2023-11-09 01:14:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMPANY" already exists; SQL statement:
+CREATE TABLE   COMPANY (ID INTEGER,  NAME VARCHAR(255))  [42101-200]
